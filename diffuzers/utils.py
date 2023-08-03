@@ -21,9 +21,9 @@ from st_clickable_images import clickable_images
 no_safety_checker = None
 
 
-CODE_OF_CONDUCT = """
+# CODE_OF_CONDUCT = """
 
-"""
+# """
 
 
 def use_auth_token():
