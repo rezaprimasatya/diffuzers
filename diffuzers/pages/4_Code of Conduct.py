@@ -1,13 +1,13 @@
-import streamlit as st
+# import streamlit as st
 
-from diffuzers import utils
-
-
-def app():
-    # utils.create_base_page()
-    print("xd")
-    # st.markdown(utils.CODE_OF_CONDUCT)
+# from diffuzers import utils
 
 
-if __name__ == "__main__":
-    app()
+# def app():
+#     # utils.create_base_page()
+#     print("xd")
+#     # st.markdown(utils.CODE_OF_CONDUCT)
+
+
+# if __name__ == "__main__":
+#     app()
