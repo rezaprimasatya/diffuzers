@@ -4,8 +4,9 @@ from diffuzers import utils
 
 
 def app():
-    utils.create_base_page()
-    st.markdown("## FAQs")
+    # utils.create_base_page()
+    print("xd")
+    # st.markdown("## FAQs")
 
 
 if __name__ == "__main__":
